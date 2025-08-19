@@ -12,7 +12,7 @@ python (needed to run the file and downloading 1 module):
 https://www.python.org/downloads/windows/
         
        
-after installing python click "win + r" and type "cmd" then type "pip install colorama"
+after installing python click "win + r" and type "cmd" then type "pip install colorama requests"
      
      
 LOOK AT MY YT CHANNEL FOR TUTORIAL:
