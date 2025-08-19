@@ -1,6 +1,9 @@
 hi this was a fast project made by me, if u have any questions dm me on discord @tracinghumanoid
-
+            
+           
 links needed for proper use:
+         
+          
 string generator(for short users like "G4hf"):
 https://tracinghumanoid.github.io/stringgenerator/
 
