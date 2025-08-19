@@ -71,7 +71,7 @@ def check_user(username):
             return username, (message == "username is valid")
     except Exception as e:
         with printlock:
-            print(Fore.YELLOW + f"[ERROR] {username} - {e}")
+            print(Fore.YELLOW + f"[ERROR] {username}")
     return username, False
     
 def process_user(username):
